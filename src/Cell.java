@@ -1,6 +1,5 @@
 
-
-class Cell {
+public class Cell {
 	
 	boolean state=false;
 	boolean futureState=false;
@@ -10,7 +9,4 @@ class Cell {
 		state=initialState;
 		
 	}
-	
-	
-	
 }
